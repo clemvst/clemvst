@@ -1,15 +1,23 @@
 ### Hi there 👋
 
-I'm ClemVst, a data science and engineering student.
+I'm clemvst, a data science and engineering student.
+
 
 ## From
+
 🌱 Mines Nancy French school of engineering
+
 🌱 Cognitive sciences Master at IDMC
 
+
 ## Things I like to work on
+
 🤖 Computer vision
+
 👾 Deep learning
+
 🧠 Cognition and emotions
+
 
 [Reach me here : <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/clemence-vast/)
 
