@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm clemvst, a data science and engineering student.
+I'm clemvst, data science / ML engineer.
 
 
 ## From
