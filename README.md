@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm clemvst, data science / ML engineer.
+I'm Clemence, data science / ML engineer.
 
 
 ## From
@@ -12,9 +12,9 @@ I'm clemvst, data science / ML engineer.
 
 ## Things I like to work on
 
-🤖 Computer vision
+🤖 Computer vision and NLP
 
-👾 Deep learning
+👾 Software Engineering
 
 🧠 Cognition and emotions
 
